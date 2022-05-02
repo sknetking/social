@@ -1,0 +1,2 @@
+# xmlcdn.xml
+useascdn
